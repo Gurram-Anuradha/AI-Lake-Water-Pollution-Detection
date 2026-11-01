@@ -54,3 +54,30 @@ The proposed system follows an image-based AI processing workflow.
 Workflow
 
 Image Upload → Image Preprocessing → AI Model → Classification → Result Display
+Installation and Execution
+
+Prerequisites
+
+- Python 3.x
+- Visual Studio Code
+- Git
+
+Step 1: Clone the Repository
+
+git clone https://github.com/Gurram-Anuradha/AI-Lake-Water-Pollution-Detection.git
+
+Step 2: Navigate to the Project Folder
+
+cd AI-Lake-Water-Pollution-Detection
+
+Step 3: Install Dependencies
+
+pip install -r requirements.txt
+
+Step 4: Run the Application
+
+Run the appropriate Python application file:
+
+python website/app.py
+
+Follow the instructions displayed by the application.

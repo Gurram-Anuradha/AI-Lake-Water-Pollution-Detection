@@ -81,3 +81,18 @@ Run the appropriate Python application file:
 python website/app.py
 
 Follow the instructions displayed by the application.
+Advantages
+
+- Reduces manual effort in preliminary water image analysis.
+- Provides automated image classification.
+- Offers a simple and user-friendly interface.
+- Supports environmental awareness.
+- Can be extended for larger-scale water monitoring applications.
+
+Applications
+
+- Lake pollution monitoring.
+- Environmental research and analysis.
+- Smart water monitoring systems.
+- Educational and research institutions.
+- Preliminary assessment of visible water pollution.

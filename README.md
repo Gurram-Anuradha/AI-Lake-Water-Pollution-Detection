@@ -33,3 +33,11 @@ Development Tools
 Frameworks and Libraries
 - TensorFlow / Keras
 - Streamlit (if used for the application interface)
+- Key Features:
+
+- AI-based analysis of lake water images.
+- Automated classification of water pollution conditions.
+- Image processing for extracting useful visual information.
+- User-friendly interface for uploading water images.
+- Fast prediction and display of classification results.
+- Supports preliminary environmental monitoring.

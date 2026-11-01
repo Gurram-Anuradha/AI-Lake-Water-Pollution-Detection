@@ -41,3 +41,16 @@ Frameworks and Libraries
 - User-friendly interface for uploading water images.
 - Fast prediction and display of classification results.
 - Supports preliminary environmental monitoring.
+- System Architecture
+
+The proposed system follows an image-based AI processing workflow.
+
+1. Input: User uploads a lake water image through the application.
+2. Preprocessing: The uploaded image is resized and normalized.
+3. Feature Extraction: The AI model analyzes visual patterns and features in the image.
+4. Classification: The trained model predicts the pollution category.
+5. Output: The application displays the predicted classification result.
+
+Workflow
+
+Image Upload → Image Preprocessing → AI Model → Classification → Result Display
